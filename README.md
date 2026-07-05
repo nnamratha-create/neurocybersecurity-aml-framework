@@ -65,8 +65,8 @@ cd neurocybersecurity-aml-framework
 If you leverage this conceptual paradigm, system topology, or mathematical definitions in your research, please cite the framework using the canonical index below:
 
 ```bibtex
-@article{yourname2026neurocyber,
-  author    = {Your Full Name},
+@article{Namratha2026neurocyber,
+  author    = {N Namratha},
   title     = {Cryptographic Privacy Gaps and Adversarial Vulnerabilities in Closed-Loop Brain-Computer Interfaces},
   journal   = {GitHub Digital Archive for Neural Engineering Researches},
   year      = {2026},
